@@ -3,12 +3,16 @@
 
 Download all Files from all courses from the choosen semester.
 
-> Reference: [https://moodle.hu-berlin.de](Moodle HU Berlin)
+> Reference: [https://moodle.hu-berlin.de](https://moodle.hu-berlin.de)
 
 ---
 
 ### Requierment
-**python3**
+ 
+ - **python3**
+ 
+ - **HU Moodle Account**
+
 
 ---
 
