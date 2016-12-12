@@ -13,6 +13,7 @@ Download all Files from all courses from the choosen semester.
 ### How to run:
 
 **Download**
+
 First of all you need to download the python file *.py
 
 
@@ -41,7 +42,9 @@ Benutzername:
 Passwort: 
 ~~~~
 **Choose Semester to download**
+
 ***Note: If you select a semester with no courses, the script will download ALL of your courses!***
+
 ~~~~
 Available Semester: 
 0  -  SoSe 2012
