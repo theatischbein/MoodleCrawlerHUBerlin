@@ -12,7 +12,9 @@ Download all Files from all courses from the choosen semester.
 
 ### How to run:
 
-**First download the File *.py**
+**Download**
+First of all you need to download the python file *.py
+
 
 **open Terminal in Folder of Script**
 
