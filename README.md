@@ -1,7 +1,9 @@
-## Moodle Crawler for Humbold University of Berlin
+## Moodle Crawler for Humboldt University of Berlin
 #### Testet with Moodle Version from November 2016
 
 Download all Files from all courses from the choosen semester.
+
+> Reference: [https://moodle.hu-berlin.de](Moodle HU Berlin)
 
 ---
 
@@ -38,12 +40,13 @@ Login to proceed.
 ~~~~
 **Enter Moodle-Username and Password**
 ~~~~
+
 Benutzername: 
 Passwort: 
 ~~~~
 **Choose Semester to download**
 
-***Note: If you select a semester with no courses, the script will download ALL of your courses!***
+*Note: If you select a semester with no courses, the script will download ALL courses without filtering by semester!*
 
 ~~~~
 Available Semester: 
@@ -61,3 +64,14 @@ Choose Semester: 1
 Successfully logged in.
 ==============================
 ~~~~
+
+
+### How to stop:
+
+If you want to stop the script, just hit
+
+> Ctrl + C
+
+or 
+
+> Strg + C
