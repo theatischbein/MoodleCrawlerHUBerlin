@@ -31,7 +31,7 @@ python3 moodle-crawler.py
 or
 ~~~~
 python moodle-crawler.py
-~~~
+~~~~
 
 ~~~~
 ====================================
